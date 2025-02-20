@@ -62,8 +62,6 @@ CryptoWebTools dilengkapi dengan berbagai mekanisme keamanan untuk melindungi pe
 Berikut adalah beberapa tampilan dari aplikasi:
 
 - **Dashboard** 🖥️
-- ![Uploading 1.png…]()
-
 - **Enkripsi & Dekripsi** 🔐
 - **Hasil Dekripsi** 📜
 - **Hasil Enkripsi** 📄
